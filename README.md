@@ -106,5 +106,6 @@ Simple_shell can be used on various operating systems such as Unix, Linux, and m
 
 AUTHORS
 
-ESTHER EJIMOFOR(ejimofor81@gmail.com),
+ESTHER EJIMOFOR(ejimofor81@gmail.com), 
+
 EMMANUEL NDUKWE NMAJU(enmaju37@gmail.com)
